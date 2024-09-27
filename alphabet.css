@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    font-size: 44px;
+}
+tr{
+    border: 100px  solid black;
+}
+table{
+    text-align: center;
+}
+td{
+    margin: 40px;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
